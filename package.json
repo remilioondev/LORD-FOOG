@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "clipboard": "^2.0.11"
   },
   "devDependencies": {
     "vite": "^5.0.12"
